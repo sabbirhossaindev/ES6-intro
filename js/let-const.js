@@ -32,3 +32,5 @@ for(let i = 0; i < numbers.length; i++){
     sum = sum + number;
 }
 console.log(number);
+
+// google screch: var vs let vs const; 
