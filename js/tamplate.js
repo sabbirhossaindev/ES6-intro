@@ -19,7 +19,7 @@ const a = 20;
 const b = 30;
 const nums = [78, 98, 45, 12, 6, 444]
 const summary = 'sum of: ' + a + ' and ' + b + ' is: '+ (a+b);
-// console.log(summary)
+console.log(summary)
 
 // dynamic 
 const newSummary = `sum of ${a} and ${b} is: ${a+b}`;
